@@ -1,4 +1,8 @@
-# Bayes-Classifier
+### EXP NO: 02
+
+### Date: 
+
+# <p align = "center">Bayes-Classifier</p>
 ## Aim:
 To Construct a Bayes Classifier to classiy iris dataset using Python.
 ## Algorithm:
